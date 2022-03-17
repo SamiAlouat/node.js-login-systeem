@@ -1,13 +1,20 @@
-Node.js & Passport Login
-This is a user login and registration app using Node.js, Express, Passport, Mongoose, EJS and some other packages.
+Node.js login systeem
+dit is een user login app gemaakt met Node.js, Express en sommige andere packages.
 
-Version: 2.0.0
-Usage
+Versie: 2.0.0
+
+
+
+om dit te installeren run: 
+
 $ npm install
-$ npm start
-# Or run with Nodemon
-$ npm run dev
 
-# Visit http://localhost:5000
-MongoDB
-Open "config/keys.js" and add your MongoDB URI, local or Atlas
+
+om dit te starten run:
+
+$ npm start
+
+
+
+# Visit http://localhost:3306 na het instellen
+
